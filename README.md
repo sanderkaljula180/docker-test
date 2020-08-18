@@ -1,3 +1,15 @@
+## Test Project for Docker, AWS Elastic Beanstalk, Github and Travis CI
+
+I wanted to see how this kind of a pipeline will work and how easy it is to setup.
+
+1. How did it work?
+    It worked great, easier than I tought. This makes testing and deployment really easy and effective. I like it!
+
+2. How easy it was to setup?
+    Travis CI account creation...easy, EB connection to Travis...kinda easy. Only thing that took a little time was looking up how to setup Dockerfile and .travis.yml but still better than anything I have been using :)
+
+    
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
