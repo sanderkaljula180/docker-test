@@ -1,4 +1,4 @@
-## Test Project for Docker, AWS Elastic Beanstalk, Github and Travis CI
+## Test Project for Single Container Deployment w/ Docker, AWS Elastic Beanstalk, Github and Travis CI
 
 I wanted to see how this kind of a pipeline will work and how easy it is to setup.
 
